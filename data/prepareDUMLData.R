@@ -2,7 +2,7 @@ library(dplyr)
 library(readr)
 library(fields)
 library(lme4)
-library(ggplot2)
+library(ggpplot2)
 
 # Read in data
 # positional data about the RV Kahuna
