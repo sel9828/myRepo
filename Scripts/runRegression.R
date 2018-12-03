@@ -2,7 +2,6 @@ library(dplyr)
 library(readr)
 library(fields)
 library(lme4)
-library(ggpplot2)
 
 
 # Test the distance
