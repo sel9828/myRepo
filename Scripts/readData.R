@@ -18,4 +18,8 @@ gm182UP <- read_csv('2018-11-27_Gm182-UserPoints-Start-CEE-Locations-Kahuna.csv'
 gm182 <- read_csv('2018-11-27_Gm182-Start-CEE-Locations-Kahuna.csv') %>% 
   mutate(status = 'noUserPoints')
 
+
 # end!
+
+# a conflicted edit!!!
+
